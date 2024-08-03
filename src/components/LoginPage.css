@@ -1,0 +1,142 @@
+
+     .pg1{
+    background-color: #A8A6A6;
+    height: 707px;
+    margin-top: -22px;
+  }
+  .pg1 h1{
+    margin-left: 148px;
+    
+  }
+  .pg1 h2{
+    text-align: center;
+    font-size: 30px;
+  }
+  .brand-name {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .backimg{
+    background-color: #8b6f61;
+    width:48% ;
+    
+  }
+  .welcome-text{
+    font-size: 18px;
+    margin-top: 5px;
+    font-weight: lighter;
+  }
+  
+  .lgncontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 550px;
+    padding: 20px;
+    width: 80%;
+    margin-left: 150px;
+    box-sizing: border-box;
+    background-color: white;
+    
+  }
+  
+  .login-box {
+    display: flex;
+    background-color: #f3f0eb;
+    border: 3px solid saddlebrown;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 700px;
+    max-width: 100%;
+    text-align: left;
+    position:fixed;
+    height: 400px;
+  }
+  
+  .plant-image {
+    width: 48%;
+    height: 400px;
+    margin-left: 30px;
+    
+    object-fit: cover;
+    
+    padding-top: 135px;
+    
+    
+  }
+  
+  .login-form {
+    padding: 20px;
+    width: 100%;
+    max-width: 400px;
+    
+  }
+  
+  .login-header {
+    font-size: 35px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+    margin-left:60px;
+    margin-top: 30px;
+
+    
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .label {
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .input {
+    width:80%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    background-color: rgb(208, 207, 207);
+    font-weight: lighter;
+  }
+
+  
+  .button {
+    padding: 12px;
+    background-color: #a08372;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 170px;
+    margin-left: 80px;
+  }
+  
+  .button:hover {
+    background-color: #8b6f61;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 14px;
+    text-align: right;
+    margin-top: -10px;
+  }
+  .form-container {
+    margin-top: -540px;
+  
+    width:400px;
+    margin-left: 320px;
+    height: 398px;
+    
+  } 
+  

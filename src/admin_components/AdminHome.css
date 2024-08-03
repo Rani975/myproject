@@ -1,0 +1,152 @@
+
+   .admin-home {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .admin-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e6e6e6;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .header-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-box {
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  
+  .header-box span {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: darkgray;
+  }
+  
+  .header-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .admin-content {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
+
+   .admin-home {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    /* padding: 20px; */
+  }
+  
+  .admin-content {
+    
+    background-color: #f9f9f9;
+    /* margin-top:     -20px; */
+    color: black;
+  }
+  
+  .top-section {
+    position: relative;
+    text-align: center;
+    background-color: #d9d9d9;
+    padding: 40px;
+    margin-bottom: 20px;
+    height: 500px;
+    width: 1360px;
+    margin-top: 80px;
+  }
+  
+  .top-section-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    
+    z-index: 1;
+  }
+  
+  .header-box {
+    cursor: pointer;
+    
+  }
+  
+  .header-box span {
+    padding: 10px;
+    
+    display: inline-block;
+    background-color: darkgray;
+  }
+  
+  .hero-img2,
+  .hero-img1 {
+    width: 20%;
+    max-width: 600px;
+    margin-bottom: -465px;
+  }
+  
+  .heading-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    height: 100px;
+    cursor: pointer;
+    margin-left: -595px;
+    border: 2px dotted grey;
+  }
+  
+  .heading-box h1 {
+    margin: 0;
+    font-size: 2em;
+  }
+  
+  .heading-input {
+    font-size: 2em;
+    padding: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    
+    text-align: center;
+  }
+  
+  .bottom-section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bottom-section h5 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  .home-page-heading {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .home-page-heading h1 {
+    font-size: 24px;
+    color: #333; /* Change color as needed */
+  }
+  
